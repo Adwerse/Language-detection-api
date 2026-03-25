@@ -1,6 +1,13 @@
-# Full-ML-Pipeline
+# LangDetect API
 
-Production-ready language detection API built with FastAPI, containerized with Docker, and deployed on Railway.
+NLP-powered language detection service — trained on a custom dataset,
+served via FastAPI, containerized with Docker, deployed on Railway.
+
+Built end-to-end: from raw data and model training in Jupyter
+to a live production endpoint with a web UI.
+
+**Why it exists:** My first complete ML project shipped to production —
+not a notebook, not a tutorial result. A running service.
 
 ## Live Demo 🚀
 
